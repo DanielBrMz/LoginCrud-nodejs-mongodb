@@ -1,0 +1,8 @@
+# Enviroment variables
+.env
+
+# node dependencies
+node_modules
+
+# compiled output
+build
